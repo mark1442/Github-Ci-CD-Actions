@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.SERVER }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        server-dir: /home3/dkfjvlmy/test.prymelinx.com/
+        server-dir: /home3/dkfjvlmy/test.prymelinx.com
