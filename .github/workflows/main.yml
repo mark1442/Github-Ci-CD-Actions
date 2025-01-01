@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.SERVER }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        server-dir: /public_html/schoolerp/
+        server-dir: test.prymelinx.com/
